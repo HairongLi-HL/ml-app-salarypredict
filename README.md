@@ -3,11 +3,12 @@ A machine learning web application in Python with streamlit. Use survey data fro
 
 ### Technologies Used:
 
-Python
-Scikit-learn
-Streamlit
-Pandas
-Stack Overflow Developer Survey Data
+- Python
+- Scikit-learn
+- Streamlit
+- Matplotlib
+- Pandas
+- Stack Overflow Developer Survey Data
 
 #### Survey data from Stack Overflow:
 https://insights.stackoverflow.com/survey/2020
